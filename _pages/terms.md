@@ -6,7 +6,7 @@ include_in_header: false
 
 # Terms and Conditions
 
-**Effective Date:** January 12, 2025
+**Effective Date:** January 20, 2025
 
 Welcome to **Expense Keep** ("the App"). By downloading, accessing, or using the App, you agree to be bound by these Terms and Conditions ("Terms"). If you do not agree to these Terms, do not use the App.
 
